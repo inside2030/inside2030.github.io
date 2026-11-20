@@ -1,14 +1,16 @@
 ---
 wpnum: 3
-title: "WP3: GRN inference: from dynamical to logical models"
+title: "WP3: Bone/Cell scale"
 collection: wps
 permalink: /wps/wp3
 image: slide_wp3.png
 ---
 
-- GRN reconstruction and causal graphs from ATACSeq and scRNASeq data
-- Challenge stochastic and boolean models
-- Explore predicted trajectories, simulate cellular dynamics
-- Predict resistance phenotype in cancer
-- Predict genetic targets for treatment
+**Work Package 3 (WP3)** looks at the microscopic level, using patient data and joint simulations to predict how bone tissue and cells respond to the knee implant.
+To understand inflammation and how well the bone bonds to the prosthesis, the team is focusing on three main areas:
 
+• Tracking inflammation and wear: Collecting tissue and blood samples to measure inflammation levels and check for tiny metal particles that signal implant wear.
+
+• Testing bone cell behavior: Isolating bone marrow cells and placing them in a specialized machine that mimics body movement to see how well they grow new bone around the implant.
+
+• Modeling bone integration: Using high-resolution 3D scans of bone samples to build fast computer models that predict how securely the bone will fuse with the implant over time.
