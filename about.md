@@ -1,7 +1,7 @@
 ---
 layout: page
-title: AI4scMed
-subtitle: Multiscale AI for single-cell based precision medicine
+title: INSIDE
+subtitle: dIgital twiN for poSt-operative monItoring of implanteD kneE
 permalink: /
 redirect_from:
   - /about/
@@ -10,15 +10,14 @@ redirect_from:
 
 <img width="150" src="../assets/img/funding/france2030.png" style="float: right; margin-left: 30px; clear:both;"/>
 
-AI4scMed is a consortium (2023-2028) from the [PEPR Santé Numérique](https://www.inria.fr/fr/pepr-sante-numerique-projets) (project no. 22-PESN-0002) headed by INRIA-INSERM. It gathers researchers from different institutions on AI developments for single-cell biology applied to precision medicine.
+Knee replacement surgery is common, yet many patients still experience persistent pain or limited movement afterward due to implant wear, instability, or tissue issues. Current follow-up methods often catch these problems too late. The INSIDE project solves this by creating a personalized “digital twin”—a virtual model of the patient’s knee implant and surrounding body. By combining data from daily wearables, lab tests, and computer simulations, doctors can predict complications early and tailor treatments to improve recovery and quality of life.
+
+The INSIDE project (grant number ANR-25-PESN-0007) is funded under the [PEPR Santé Numérique](https://www.inria.fr/fr/pepr-sante-numerique-projets). Coordinated by University Lyon 1, the consortium brings together seven partner teams: LBMC, HCL, LYOS, LaMCoS, CETIM, TIMC, and Platon.
+
 
 # General Presentation
 
-Cell-based precision medicine holds revolutionary potential for healthcare, but realizing its full potential demands a deep understanding of disease variability and multiscale aspects. Single-cell (sc) multi-omics offers a unique way to obtain molecular profiles of individual cells and predict disease trajectories. To harness this complexity, new AI breakthroughs are needed. Our consortium will tackle methodological challenges to bridge the gap between sc data and personalized treatments, resolving cell type differences and integrating sc-multi-omics with imaging for spatial insights.
-
-Addressing the complexity of the human body and combining genomics with other assays, we will develop AI-based methods to handle, integrate, analyze, and visualize multiscale complexity in diseases. Our developments will leverage cutting-edge AI for sc-genomic data analysis. To infer causal mechanisms at different levels, we'll use causal/logical/stochastic modeling to integrate heterogeneous data and account for temporal scales and biophysical priors.
-
-We will create network inference methods to understand molecular mechanisms in clinical samples, identifying key genes and predicting therapeutic impacts. Precision medicine must also integrate variability across different cell decision levels. We aim to build predictive models, digital twins, to enable data-driven personalized treatments by connecting intracellular dynamics, biochemical processes, cell populations, and tissue-level organization.
+The project INSIDE is divided into 5 Work Packages (WPs) and is funded for 5 years
 
 {% for post in site.wps %}
     {% include wps.html %}
