@@ -1,7 +1,7 @@
 ---
 layout: page
 title: INSIDE
-subtitle: dIgital twiN for poSt-operative monItoring of implanteD kneE
+subtitle: Digital twin for post-operative monitoring of implanted knee
 permalink: /
 redirect_from:
   - /about/
@@ -10,14 +10,18 @@ redirect_from:
 
 <img width="150" src="../assets/img/funding/france2030.png" style="float: right; margin-left: 30px; clear:both;"/>
 
-Knee replacement surgery is common, yet many patients still experience persistent pain or limited movement afterward due to implant wear, instability, or tissue issues. Current follow-up methods often catch these problems too late. The INSIDE project solves this by creating a personalized “digital twin”—a virtual model of the patient’s knee implant and surrounding body. By combining data from daily wearables, lab tests, and computer simulations, doctors can predict complications early and tailor treatments to improve recovery and quality of life.
+Total knee arthroplasty (TKA) is the most common joint replacement surgery, with revision rates varying by surgical approach. Postoperative dissatisfaction (more frequent than after hip replacement) increases further in revision cases: it is often linked to persistent pain or limited function, significantly impacting quality of life. Beyond infection risks, dissatisfaction has been associated with improper implant positioning, joint instability, mechanical complications (loosening, wear), unbalanced surrounding tissues, and patella overloading.
+
+The INSIDE project centers the digital twin (DT) on the implanted prosthesis within its human environment, leveraging existing multi-scale models to improve prediction of patient dissatisfaction. The project unites research teams with expertise in patient monitoring across different levels: patient/clinical, joint/implant, bone, and cellular. These multi-scale, multi-fidelity data will be merged using  metamodels that account for both measurement and simulation uncertainty. Supported by a Technical Industrial Center and a DT company, INSIDE will develop a knee prosthesis DT updated with patient-specific data to predict complications early.
 
 The INSIDE project (grant number ANR-25-PESN-0007) is funded under the [PEPR Santé Numérique](https://www.inria.fr/fr/pepr-sante-numerique-projets). Coordinated by University Lyon 1, the consortium brings together seven partner teams: LBMC, HCL, LYOS, LaMCoS, CETIM, TIMC, and Platon.
+
+<img width="150" src="../assets/img/partners_map.svg" style="display: block; margin: 0 auto;" />
 
 
 # General Presentation
 
-The project INSIDE is divided into 5 Work Packages (WPs) and is funded for 5 years
+INSIDE, funded for 4 years, is divided into 5 Work Packages (WPs).
 
 {% for post in site.wps %}
     {% include wps.html %}
