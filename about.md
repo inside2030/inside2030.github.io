@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img width="150" src="../assets/img/funding/france2030.png" style="float: right; margin-left: 30px; clear:both;"/>
+<img width="150" src="../assets/img/funding/Logo_France_2030.svg" style="float: right; margin-left: 30px; clear:both;"/>
 
 Total knee arthroplasty (TKA) is the most common joint replacement surgery, with revision rates varying by surgical approach. Postoperative dissatisfaction (more frequent than after hip replacement) increases further in revision cases: it is often linked to persistent pain or limited function, significantly impacting quality of life. Beyond infection risks, dissatisfaction has been associated with improper implant positioning, joint instability, mechanical complications (loosening, wear), unbalanced surrounding tissues, and patella overloading.
 
@@ -16,7 +16,7 @@ The INSIDE project centers the digital twin (DT) on the implanted prosthesis wit
 
 The INSIDE project (grant number ANR-25-PESN-0007) is funded under the [PEPR Santé Numérique](https://www.inria.fr/fr/pepr-sante-numerique-projets). Coordinated by University Lyon 1, the consortium brings together seven partner teams: LBMC, HCL, LYOS, LaMCoS, CETIM, TIMC, and Platon.
 
-<img width="150" src="../assets/img/partners_map.svg" style="display: block; margin: 0 auto;" />
+<img width="350" src="../assets/img/partners_map.svg" style="display: block; margin: 0 auto;" />
 
 
 # General Presentation
